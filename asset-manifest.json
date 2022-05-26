@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a4d78126.css",
+    "main.js": "/static/js/main.cddb4ad3.js",
+    "static/media/myPhoto2.jpg": "/static/media/myPhoto2.7580520f271dbb55d350.jpg",
+    "static/media/learnProject4-20.jpg": "/static/media/learnProject4-20.852048cb728b5a9abf8a.jpg",
+    "static/media/learnProject1-20.jpg": "/static/media/learnProject1-20.f29d7ac7bec9215dfdea.jpg",
+    "static/media/weatherApp.jpg": "/static/media/weatherApp.3314bce50e649778b305.jpg",
+    "static/media/learnProject5-20.jpg": "/static/media/learnProject5-20.752eec3ff73a899c4bbb.jpg",
+    "static/media/gitHub.jpg": "/static/media/gitHub.9e2dcf8529b48c7055c2.jpg",
+    "static/media/layout8-20.jpg": "/static/media/layout8-20.4f88e11c91a06a03a863.jpg",
+    "static/media/layout4-20.jpg": "/static/media/layout4-20.95dc19ad775935896592.jpg",
+    "static/media/layout1-20.jpg": "/static/media/layout1-20.58e09348c0ea14c1e790.jpg",
+    "static/media/learnProject3-20.jpg": "/static/media/learnProject3-20.f32ae9c0399b99a99adb.jpg",
+    "static/media/learnProject2-20.jpg": "/static/media/learnProject2-20.b32afb88ad6761a55067.jpg",
+    "static/media/layout3-20.jpg": "/static/media/layout3-20.3b756179984d694c881d.jpg",
+    "static/media/layout2-20.jpg": "/static/media/layout2-20.9fc128eb366e135e8c7e.jpg",
+    "static/media/layout7-20.jpg": "/static/media/layout7-20.8c7a6958f35b0995b075.jpg",
+    "static/media/layout9-20.jpg": "/static/media/layout9-20.50696e9395109618aef1.jpg",
+    "static/media/layout5-20.jpg": "/static/media/layout5-20.8f5a039ce2b83da8ed6d.jpg",
+    "static/media/todo.jpg": "/static/media/todo.74c37dc1e2c7fb710c2e.jpg",
+    "static/media/learnProject6-20.jpg": "/static/media/learnProject6-20.0a944cfa7874077daf92.jpg",
+    "static/media/skill5.svg": "/static/media/skill5.79e1e5d02658a9cfe29759391b417620.svg",
+    "static/media/skill1.svg": "/static/media/skill1.1de03bd1f02ed05f2316a581eacfc784.svg",
+    "static/media/skill2.svg": "/static/media/skill2.6fcd775b1c62ca7d7a15c4f89c8229eb.svg",
+    "static/media/skill6.svg": "/static/media/skill6.0316e72c2d50eafebe7b82824246ebba.svg",
+    "static/media/skill3.svg": "/static/media/skill3.0797fef6cddfeeb6d990c0a4af9efba8.svg",
+    "static/media/skill4.svg": "/static/media/skill4.204b045c901f581eb0385cab47e5da62.svg",
+    "index.html": "/index.html",
+    "main.a4d78126.css.map": "/static/css/main.a4d78126.css.map",
+    "main.cddb4ad3.js.map": "/static/js/main.cddb4ad3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4d78126.css",
+    "static/js/main.cddb4ad3.js"
+  ]
+}
